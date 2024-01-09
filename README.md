@@ -12,3 +12,5 @@ git push
 ```
 
 ![Georgia_title](https://i.pinimg.com/736x/cc/25/83/cc2583bd583ece3d49504d18eade1b77.jpg)
+
+I don't actually like the Georgia bulldogs :wink:
