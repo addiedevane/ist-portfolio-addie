@@ -10,3 +10,5 @@ git add .
 git commit -m "Commit message"
 git push
 ```
+
+![Georgia_title](https://i.pinimg.com/736x/cc/25/83/cc2583bd583ece3d49504d18eade1b77.jpg)
